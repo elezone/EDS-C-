@@ -1,1 +1,1 @@
-# EDS-C-
+# EDS-C-Standard
